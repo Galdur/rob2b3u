@@ -25,3 +25,5 @@ við reiknuðum svo hversu mikið timbur við þurfum.
 07/02/2017 
 Í dag náðum við að tengja tengja servo-inn rétt við Arduino UNO. 
 Við vorum greinilega að nota vitlausa usb port á tölvuni. 
+09/02/2017 
+Í dag skrifuðum við verkefna áætlun. 
